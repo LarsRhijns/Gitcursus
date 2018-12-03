@@ -1,2 +1,2 @@
 # Gitcursus
-Hallo wereld!   
+Hallo kleine wereld!   
